@@ -1,0 +1,36 @@
+footer ul{
+    list-style: none;
+    padding: 0;
+}
+
+footer section{
+    display: flex;
+    margin: 0;
+    justify-content: space-between;
+    color: white;
+    flex-wrap: wrap;
+    
+}
+
+footer a{
+    text-decoration: none;
+    color: white;
+}
+
+footer h5{
+    margin: 0;
+}
+
+footer div{
+    margin: 20px 45px; /* haut,bas / droite,gauche */
+}
+
+footer{
+    background-color: black;
+}
+
+footer hr{
+    margin: 4px;
+    max-width: 218px;
+}
+

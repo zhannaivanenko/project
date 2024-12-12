@@ -1,0 +1,49 @@
+.image1 {
+    margin-bottom: 0px;
+    margin-top: 0px;
+}
+.subtext {
+    margin-left: 64px;
+}
+.air_de_repos {
+    display: flex;
+    width: 100%;
+}
+
+.air_de_repos > div {
+    flex-basis: 200px;
+    padding: 30px;
+}
+
+.air_de_repos aside {
+    flex-grow: 0;
+    margin: 0;
+    flex-basis: 50%;
+}
+
+.air_de_repos h1 {
+    margin: 0;
+    line-height: 1em;
+}
+
+.air_de_repos img {
+    width: 100%;
+}
+
+.air_de_repos figure {
+    margin: 0;
+}
+
+
+.texte {
+    color: red;
+    position: relative;
+    top: 250px;
+    right: 315px;
+}
+
+
+.period__dates {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+}
